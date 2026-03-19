@@ -36,12 +36,6 @@ OnePen is a handwriting-based note-taking web app that lets you write, format, a
 - AI Engine: TensorFlow.js hybrid model (image + geometric stroke features)  
 - Backend: Flask with Pix2Text + Google Drive API  
 - Storage: IndexedDB for local persistence
-
----
-
-## 📸 Demo / GIF
-*(Add GIF or screenshot showing handwriting recognition & tool interactions)*
-
 ---
 
 ## 🏆 Accomplishments
